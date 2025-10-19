@@ -1,4 +1,5 @@
-AROMA (Analysis of Receptor Organization for Molecular Activity)** is an application intended to provide guidance for deorphanization experimentation planning, ligand predictions, and rational repellent design. 
+## AROMA (Analysis of Receptor Organization for Molecular Activity)
+AROMA is an application intended to provide guidance for deorphanization experimentation planning, ligand predictions, and rational repellent design. 
 AROMA is based on a Semi-supervised label propagation (diffusion) model of currently deorphanized Dipteran Odorant Receptors.
 
 <img width="385" height="397" alt="image" src="https://github.com/user-attachments/assets/c452a905-8e41-4a7e-93ea-ec706e794d02" />
